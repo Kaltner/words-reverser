@@ -1,0 +1,13 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(ExampleTests, org.scalatest.tools.Framework$$anon$1@3c73714d, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mExampleTests:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mCodewars.spinWordsSimple[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should work with example tests[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mCodewars.spinWordsUsingVars[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should work with example tests[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 871 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 2, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ExampleTests[0m

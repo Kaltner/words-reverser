@@ -1,0 +1,4 @@
+[debug] [stop-gninnip-my-sdrow-test] Classpath dependencies List()
+[debug] [stop-gninnip-my-sdrow-test] Dependencies from configurations List(stop-gninnip-my-sdrow)
+[debug] Bloop wrote the configuration of project 'stop-gninnip-my-sdrow-test' to 'C:\Users\Danilo Kaltner\Documents\www\scala\stop-gninnip-my-sdrow\.bloop\stop-gninnip-my-sdrow-test.json'
+[success] Generated .bloop\stop-gninnip-my-sdrow-test.json
